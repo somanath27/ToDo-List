@@ -1,10 +1,3 @@
----
-marp: true
-footer: '![width:200px](./images/header_logo.png)'
----
-
-
-# $~~~~~~~~~~~~~~~~~~~~~~$ ![ width:1000px height:500px](./images/to-do-list.png) 
 
 ---
 # $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ KEY POINTS
@@ -473,6 +466,4 @@ function expand() {
 # Finally We have Completed our Project ToDo-App
 ---
 
-![bg width:1000px height:500px](./images/thank%20you.jpg)
----
 
